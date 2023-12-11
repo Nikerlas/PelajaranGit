@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "report_env"
-version = "0.06"
+name = "pelajaran_git"
+version = "0.01"
 description = "python version of npx envinfo"
-authors = ["swyx <swyx@dontemail.me>"]
+authors = [ {name="Nicholas", email="nicholas@dontemail.me"},]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "report_env"}]
+packages = [{include = "pelajaran_git"}]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.12"
 
 
 [build-system]
@@ -17,8 +17,8 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.scripts]
-report_env = "report_env.__main__:main"
+pelajaran_git = "pelajaran_git.__main__:main"
 
 [project.urls]
-"Homepage" = "https://github.com/sw-yx/report-env"
-"Bug Tracker" = "https://github.com/sw-yx/report-env/issues"
+"Homepage" = "https://github.com/Nikerlas/pelajaran_git"
+"Bug Tracker" = "https://github.com/Nikerlas/pelajaran_git/issues"
