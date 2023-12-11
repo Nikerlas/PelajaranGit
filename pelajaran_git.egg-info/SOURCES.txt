@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+pelajaran_git/__init__.py
+pelajaran_git/__main__.py
+pelajaran_git/guess_number.py
+pelajaran_git.egg-info/PKG-INFO
+pelajaran_git.egg-info/SOURCES.txt
+pelajaran_git.egg-info/dependency_links.txt
+pelajaran_git.egg-info/top_level.txt
