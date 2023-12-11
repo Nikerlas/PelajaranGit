@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name= 'minggu14',
+    name= 'pelajaran_git',
     version='0.1.0',
     author='Nicholas',
     author_email='yyumireko@gmail.com',
